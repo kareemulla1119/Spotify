@@ -1,0 +1,19 @@
+.center{
+    justify-content: center;
+}
+.flex{
+    display: flex;
+}
+.border{
+    border: 2px solid blueviolet ;
+}
+.invert{
+    filter: invert(1);
+}
+.space{
+    padding: 15px;
+    margin: 10px;
+}
+button:hover{
+    transform: scale(1.1);
+}
